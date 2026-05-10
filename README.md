@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 software engineer • ai systems • full stack • creative technologist
 </p>
 
-<p>
-i'm located in the San Francisco Bay Area. i recently graduated from USC with a Bachelor's in Computer Science!
-</p>
+### about me
+
+new grad software engineer passionate about building scalable systems, ai-powered applications, and thoughtful user experiences. experienced across full stack development, distributed systems, and llm/rag infrastructure through industry internships and personal projects.
+
+worked with technologies including C++, Python, TypeScript, React, Node.js, Swift/SwiftUI, PostgreSQL, Kubernetes, and vector databases such as Weaviate and Chroma. interested in backend infrastructure, ai systems, developer tooling, and performance optimization.
