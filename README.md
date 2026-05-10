@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">hi, i'm eshna 👋</h1>
+
+<p align="center">
+software engineer • ai systems • full stack • creative technologist
+</p>
+
+<p align="center">
+i'm located in the San Francisco Bay Area. i recently graduated from USC with a Bachelor's in Computer Science!
+</p>
