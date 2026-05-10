@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:F472B6,50:8B5CF6,100:0F172A&height=300&section=header&text=eshna%20gupta&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=building%20at%20the%20intersection%20of%20ai,%20systems,%20and%20creativity&descAlignY=60&descSize=20)
-<h1 align="center">hi, i'm eshna 👋</h1>
+<h1>hi, i'm eshna 👋</h1>
 
-<p align="center">
+<p>
 software engineer • ai systems • full stack • creative technologist
 </p>
 
-<p align="center">
+<p>
 i'm located in the San Francisco Bay Area. i recently graduated from USC with a Bachelor's in Computer Science!
 </p>
